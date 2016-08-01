@@ -1,0 +1,19 @@
+Arachnida	105730
+Coleoptera	290468
+Diptera	164309
+Hemiptera	80591
+Hymenoptera	120223
+Other Insecta	349500
+Other Arthropoda	121306
+Chordata	89554
+Other Animalia	218892
+Archaea	482
+Bacteria	18238
+Chromista	61489
+Ascomycota	138601
+Other Fungi	71038
+Liliopsida	95259
+Magnoliopsida	375761
+Other Tracheophyta	22528
+Other Plantae	63846
+Protozoa	13172
