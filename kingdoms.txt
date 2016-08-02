@@ -1,8 +1,0 @@
-Animalia	1.540.573	64%
-Archaea	482	0%
-Bacteria	18.238	1%
-Chromista	61.489	3%
-Fungi	209.639	9%
-Plantae	557.394	23%
-Protozoa	13.172	1%
-Viruses	6.400	0%
