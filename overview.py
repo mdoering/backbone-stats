@@ -1,9 +1,8 @@
 import json
 import urllib2
-from pprint import pprint
 
 
-API = "http://api.gbif.org/v1/species/"
+API = "http://api.gbif-uat.org/v1/species/"
 CUTOFF_PERCENT = 0.03
 CHILD_LIMIT=100
 
