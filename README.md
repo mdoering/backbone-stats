@@ -1,5 +1,5 @@
 # Major taxonomic groups in the GBIF Backbone
-The GBIF Backbone contains [2,528,677 distinct, accepted species](http://www.gbif.org/species/search?q=&dataset_key=d7dddbf4-2cf0-4f39-9b2a-bb099caae36c&rank=SPECIES&status=ACCEPTED) across all kingdoms. 
+The GBIF Backbone contains [2,818,534 distinct, accepted species](http://www.gbif.org/species/search?q=&dataset_key=d7dddbf4-2cf0-4f39-9b2a-bb099caae36c&rank=SPECIES&status=ACCEPTED&status=DOUBTFUL) across all kingdoms. 
 The major taxonomic groups in the GBIF Backbone Taxonomy exceeding 3% of all accepted species are shown in the following donut:
 
 ![](https://docs.google.com/spreadsheets/d/1AO9540DDHrw4YJcxAfORStqSCujcZUcOKD7gckSrvA0/pubchart?oid=43934897&format=image)
